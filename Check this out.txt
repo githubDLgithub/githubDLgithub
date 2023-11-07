@@ -1,0 +1,4 @@
+6th:
+from PIL import Image
+img = Image.open("/content/roses3.jpg")
+img                                          #for colab use this command
